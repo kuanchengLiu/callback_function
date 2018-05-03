@@ -1,0 +1,4 @@
+#Mon Apr 30 17:00:09 CST 2018
+base.0=C\:\\Users\\Tommy\\Desktop\\Unnamed_Diary-Kamikase_Me\\androidPageCurlActivity\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
